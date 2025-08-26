@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import { FiArrowDown, FiGithub, FiLinkedin, FiTwitter } from "react-icons/fi";
-import memojiImage from "@/assets/images/memoji-computer.png";
+import memojiImage from "@/assets/images/Dp.jpg";
 import grainImage from "@/assets/images/grain.jpg";
 import Link from "next/link";
 
@@ -63,22 +63,22 @@ export const HeroSection = () => {
       <div className="container mx-auto px-4 z-10 relative">
         <div className="flex flex-col items-center text-center mb-8 scroll-section">
           <div ref={memojiRef} className="relative mb-6 memoji-container">
-            <div className="relative">
-              <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500/30 to-purple-500/30 blur-[30px]"></div>
+        <div className="relative">
+          <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500/30 to-purple-500/30 blur-[30px]"></div>
 
-              <div className="relative z-10">
-                <Image
-                  src={memojiImage}
-                  alt="Developer Avatar"
-                  width={200}
-                  height={200}
-                  className="drop-shadow-[0_0_15px_rgba(59,130,246,0.3)]"
-                  loading="lazy"
-                  placeholder="blur"
-                  blurDataURL="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMjAyNDM5Ii8+PC9zdmc+"
-                />
-              </div>
-            </div>
+          <div className="relative z-10">
+            <Image
+          src={memojiImage}
+          alt="Developer Avatar"
+          width={250}
+          height={250}
+          className="rounded-full drop-shadow-[0_0_15px_rgba(59,130,246,0.3)]"
+          loading="lazy"
+          placeholder="blur"
+          blurDataURL="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMjAyNDM5Ii8+PC9zdmc+"
+            />
+          </div>
+        </div>
           </div>
 
           {/* Available badge */}
