@@ -238,7 +238,7 @@ export const Footer: FC<FooterProps> = ({ className = "" }) => {
           &copy; {currentYear} Mohit Mahara. All rights reserved.
         </p>
         <p className="text-sm text-gray-400 mt-2 md:mt-0 flex items-center">
-          Designed & Built with <span className="text-red-500 mx-1">❤️</span>
+          Crafted with <span className="text-red-500 mx-1">Passion ♡</span> & a touch of creativity ✨
         </p>
       </motion.div>
     </div>
