@@ -326,19 +326,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact & Support
 
-- **Portfolio**: [View Portfolio](https://portfolio-new-sigma-lemon.vercel.app/)
-- **GitHub**: [@aman-singh78](https://github.com/aman-singh78)
-- **Email**: amansinghthapa33@gmail.com
-- **LinkedIn**: [Aman Singh Thapa](https://www.linkedin.com/in/aman-singh-thapa-1ba056373/)
+- **Portfolio**: [View Portfolio](https://my-portfolio-mocha-tau.vercel.app/)
+- **GitHub**: [@mohit7-7](https://github.com/mohit7-7)
+- **Email**: maharak206@gmail.com
+- **LinkedIn**: [Mohit Mahara](https://www.linkedin.com/in/mohit-mahara-01b9b325a/)
 
 ### Get Help
 
-- 🐛 **Bug Reports**: [Create an issue](https://github.com/aman-singh78/portfolio/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/aman-singh78/portfolio/discussions)
-- 📖 **Documentation**: [Visit the Wiki](https://github.com/aman-singh78/portfolio/wiki)
+- 🐛 **Bug Reports**: [Create an issue](https://github.com/mohit7-7/portfolio/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/mohit7-7/portfolio/discussions)
+- 📖 **Documentation**: [Visit the Wiki](https://github.com/mohit7-7/portfolio/wiki)
 
 ---
 
 ⭐ **Star this repo** if you find it helpful!
 
-Made with ❤️ by [Aman Singh Thapa](https://github.com/aman-singh78)
+Made by [Mohit Mahara](https://github.com/mohit7-7)
