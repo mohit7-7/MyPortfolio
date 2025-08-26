@@ -149,19 +149,19 @@ export const HeroSection = () => {
           {[
             {
               icon: <FiGithub size={20} />,
-              url: "https://github.com/aman-singh78",
+              url: "https://github.com/mohit7-7",
               label: "GitHub",
               color: "from-gray-600 to-gray-700",
             },
             {
               icon: <FiLinkedin size={20} />,
-              url: "https://www.linkedin.com/in/aman-singh-thapa-1ba056373",
+              url: "https://www.linkedin.com/in/mohit-mahara-01b9b325a/",
               label: "LinkedIn",
               color: "from-blue-600 to-blue-700",
             },
             {
               icon: <FiTwitter size={20} />,
-              url: "https://x.com/AmanSinghThapa",
+              url: "https://x.com/mohit7_7",
               label: "Twitter",
               color: "from-sky-500 to-sky-600",
             },
