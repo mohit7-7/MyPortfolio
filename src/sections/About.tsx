@@ -191,21 +191,28 @@ export const AboutSection = () => {
                   transition={{ delay: 0.5, duration: 1 }}
                 />
                 <p className="text-white/90 text-lg leading-relaxed pl-6">
-                  <span className="text-emerald-400 font-semibold">
-                    Full-stack developer
+                  <span className="text-emerald-400 font-semibold text-2xl md:text-3xl block mb-2 underline underline-offset-4">
+                    Mohit Mahara
                   </span>{" "}
-                  passionate about creating innovative digital solutions.
+                  <span className="text-emerald-400 font-semibold">
+                    Full-Stack Developer
+                  </span>{" "}
+                  driven by innovation and a passion for crafting seamless digital experiences and solving problems.
+                  <br />
                   Currently pursuing{" "}
                   <span className="text-sky-400 font-semibold">
-                    Computer Science & Engineering
-                  </span>
-                  with hands-on experience at{" "}
-                  <span className="text-emerald-400 font-semibold">
-                    Technology Business Incubator
+                    B-Tech (CSE)
                   </span>{" "}
-                  as a Full Stack Developer. Specialized in building scalable
-                  applications with modern technologies and AI integration.
+                  while building{" "}
+                  <span className="text-emerald-400 font-semibold">
+                    impactful real-world projects
+                  </span>{" "}
+                    that blend creativity with cutting-edge technology. Specialized in developing
+                    scalable applications, modern web solutions, and integrating{" "}
+                  <span className="text-sky-400 font-semibold">AI-powered systems</span> to
+                  shape the future of tech.
                 </p>
+
               </div>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">

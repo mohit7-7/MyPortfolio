@@ -63,7 +63,9 @@ const Loading = () => {
           <p
             className="text-lg md:text-xl text-gray-300 max-w-md text-center"
           >
-            Hi, my name is Mohit Mahara. Please enjoy exploring my portfolio.
+            "Mohit's world is loading slow—
+            Where dreams meet code,
+             soon you’ll know."
           </p>
 
           {/* Loading progress bar */}
