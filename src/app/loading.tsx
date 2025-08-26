@@ -63,8 +63,8 @@ const Loading = () => {
           <p
             className="text-lg md:text-xl text-gray-300 max-w-md text-center"
           >
-            "Mohit's world is loading slow—
-            Where dreams meet code,
+            "Mohit's world is loading slow—<br />
+             Where dreams meet code,
              soon you’ll know."
           </p>
 
