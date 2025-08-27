@@ -42,7 +42,7 @@ import { EnhancedProjectCardProps, Project, ProjectModalProps, Result } from "./
 const portfolioProjects: Project[] = [
  {
   company: "Full-Stack Development",
-  year: "2025",
+  year: " April 2025",
   title: "Virtual File Explorer CLI",
   shortDescription: "Browser-based CLI to explore a virtual file system",
   description:
@@ -124,7 +124,7 @@ const portfolioProjects: Project[] = [
   },
 {
   company: "Machine Learning Project",
-  year: "2025",
+  year: "Jan 2024",
   title: "Apple Plant Disease Detection",
   shortDescription: "Random Forest-based disease detection for apple plants",
   description:
