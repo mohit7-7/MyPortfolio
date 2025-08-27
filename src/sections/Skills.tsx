@@ -122,8 +122,8 @@ export const SkillsSection: React.FC = () => {
       {
         name: "REST APIs",
         icon: api,
-        proficiency: "Advanced",
-        years: "1.5+ years",
+        proficiency: "Intermediate",
+        years: "1+ years",
       },
     ],
     databases: [
@@ -151,7 +151,7 @@ export const SkillsSection: React.FC = () => {
         name: "Git/GitHub",
         icon: git,
         proficiency: "Advanced",
-        years: "2+ years",
+        years: "1+ years",
       },
       {
         name: "Vercel",
